@@ -1,7 +1,7 @@
 # Coffee-Shop-Sales-Dashboard
 A Coffee Shop Sales Dashboard dataset is included in this repository for exploratory data analysis (EDA). Through the use of pivot tables, macro and visualization techniques, insights and trends can be derived from the dataset.
 
-Tools Used: Microsoft Excel
+**Tools Used: Microsoft Excel**
 
 Key Questions:
 
