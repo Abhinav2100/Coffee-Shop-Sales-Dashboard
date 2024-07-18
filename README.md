@@ -6,7 +6,9 @@ A Coffee Shop Sales Dashboard dataset is included in this repository for explora
 Key Questions:
 
 *KPIs: Total sales revenue, total footfall, average bill per person, and average order quantity per person.
+
 *What is the total sales revenue for each month?
+
 *How do sales vary by hour of the day? Are there any peak times for sales activity?
 *How do sales vary by day of the week?
 *What are the top 5 bestselling products in terms of revenue generated?
